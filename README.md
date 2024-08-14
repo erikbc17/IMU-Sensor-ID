@@ -1,4 +1,4 @@
-# IMU-Sensor-ID
+## IMU-Sensor-ID
 Posture Classifier – IMU Sensor Posture ID
 
 • Collected real time data (> 1.4k points) for training of RNN in the interpretation of sequential data from IMU sensor positioning & accelerometer readings (TensorFlow).
